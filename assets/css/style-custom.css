@@ -29,3 +29,7 @@
 .member-info p {
     margin: 0;
 }
+.logo img{
+	max-width: 80%;
+	max-height: auto;
+}
